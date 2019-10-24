@@ -1,2 +1,25 @@
-# HacktoberFestGifs
-Repo to welcome the HacktoberFest and add your favourite gif :)
+# HacktoberFest Sevilla 2019 - Scope.ink & AOF
+
+Bienvenidos al repositorio del Hacktoberfest Sevilla 2019, un evento organizado por [Scope.ink](https://scope.ink) y [Andalucía Open Future](https://andalucia.openfuture.org/)!
+
+En este repositorio vamos a hacer nuestra primera cotribución al Hacktoberfest 2019. 
+
+Lo primero que vamos a hacer es un **fork** de este repositorio para hacer nuestra primera contribución.
+
+Ve a la pestaña de arriba a la derecha, donde pone *Fork* y pulsa en ella!
+
+Luego, abre tu consola y escribe `git clone https://github.com/tusuario/hacktoberfestgifs`
+
+Se creará un nuevo directorio en tu ordenador. Posteriormente, accede al repositorio creado con el comando `cd hacktoberfestgifs`
+
+Posteriormente, crea una rama en la que empezar a trabajar. Usa el comando `git checkout -b nombre-de-la-rama`
+
+Haz tus cambios en el localhost y añádelos a tu nueva rama con el comando `git add .`
+
+Haz commit de tus cambios para subirlos al **Pull-Request** con el comando `git commit -m "descripción de la tarea"`
+
+Pushea tus cambios al PR con el comando `git push origin nombre-de-la-rama`
+
+En el repo principal en GitHub, (*osea, éste*) aparecera un botón verde con ```NEW PULL REQUEST```
+
+Dale al botón para crear tu PR!
