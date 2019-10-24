@@ -44,10 +44,11 @@ Por ejemplo este es el mío
     "name": "Mariluz",
     "skills": "JavaScript",
     "gif": "https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif"
-}`
+}
 
-``export default maria``
+export default maria`
 No olvides de incluirte en el index.js para poder exportar tus datos
+
 `export * from './maria'
 
 export * from './paco'
