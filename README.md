@@ -23,6 +23,31 @@ Se creará un nuevo directorio en tu ordenador.
 `git checkout -b nombre-de-la-rama`
 
 ### 5. Haz tus cambios en el localhost y añádelos a tu nueva rama con el comando
+Los cambios que debes hacer son:
+Crea un archivo en el directorio *names* que sea tunombre.js
+En el debes incluir
+`export const tu nombre = {
+    "name": "Tu nombre",
+    "skills": "El lenguaje de programación que mejor domines",
+    "gif": "La URL de un gif que te guste"
+}
+
+export default tu nombre`
+
+Por ejemplo este es el mío
+export const maria = {
+    "name": "Mariluz",
+    "skills": "JavaScript",
+    "gif": "https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif"
+}
+
+export default maria
+No olvides de incluirte en el index.js para poder exportar tus datos
+`export * from './maria'
+export * from './paco'
+export * from './tunombre'`
+
+Ya has terminado de modificar! ahora haz: 
 
 `git add .`
 
