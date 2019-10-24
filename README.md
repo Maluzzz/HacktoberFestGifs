@@ -27,24 +27,31 @@ Los cambios que debes hacer son:
 Crea un archivo en el directorio *names* que sea tunombre.js
 En el debes incluir
 `export const tu nombre = {
+
     "name": "Tu nombre",
+    
     "skills": "El lenguaje de programación que mejor domines",
+    
     "gif": "La URL de un gif que te guste"
+    
 }
 
-export default tu nombre`
+export default *tunombre*`
 
 Por ejemplo este es el mío
-export const maria = {
+`export const maria = {
+
     "name": "Mariluz",
     "skills": "JavaScript",
     "gif": "https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif"
-}
+}`
 
-export default maria
+``export default maria``
 No olvides de incluirte en el index.js para poder exportar tus datos
 `export * from './maria'
+
 export * from './paco'
+
 export * from './tunombre'`
 
 Ya has terminado de modificar! ahora haz: 
