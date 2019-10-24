@@ -6,20 +6,36 @@ En este repositorio vamos a hacer nuestra primera cotribución al Hacktoberfest 
 
 Lo primero que vamos a hacer es un **fork** de este repositorio para hacer nuestra primera contribución.
 
-Ve a la pestaña de arriba a la derecha, donde pone *Fork* y pulsa en ella!
+### 1. Ve a la pestaña de arriba a la derecha, donde pone *Fork* y pulsa en ella!
 
-Luego, abre tu consola y escribe `git clone https://github.com/tusuario/hacktoberfestgifs`
+### 2. Luego, abre tu consola y escribe 
 
-Se creará un nuevo directorio en tu ordenador. Posteriormente, accede al repositorio creado con el comando `cd hacktoberfestgifs`
+`git clone https://github.com/tusuario/hacktoberfestgifs`
 
-Posteriormente, crea una rama en la que empezar a trabajar. Usa el comando `git checkout -b nombre-de-la-rama`
+Se creará un nuevo directorio en tu ordenador. 
 
-Haz tus cambios en el localhost y añádelos a tu nueva rama con el comando `git add .`
+### 3. Accede al repositorio creado con el comando
 
-Haz commit de tus cambios para subirlos al **Pull-Request** con el comando `git commit -m "descripción de la tarea"`
+`cd hacktoberfestgifs`
 
-Pushea tus cambios al PR con el comando `git push origin nombre-de-la-rama`
+### 4. Crea una rama en la que empezar a trabajar. Usa el comando
 
-En el repo principal en GitHub, (*osea, éste*) aparecera un botón verde con ```NEW PULL REQUEST```
+`git checkout -b nombre-de-la-rama`
 
-Dale al botón para crear tu PR!
+### 5. Haz tus cambios en el localhost y añádelos a tu nueva rama con el comando
+
+`git add .`
+
+### 6. Haz commit de tus cambios para subirlos al **Pull-Request** con el comando
+
+`git commit -m "descripción de la tarea"`
+
+### 7. Pushea tus cambios al PR con el comando
+
+`git push origin nombre-de-la-rama`
+
+### 8. En el repo principal en GitHub, (*osea, éste*) aparecera un botón verde con
+
+`NEW PULL REQUEST`
+
+## 9. Dale al botón para crear tu PR!
