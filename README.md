@@ -38,22 +38,22 @@ En el debes incluir
 
 Por ejemplo este es el mío
 ~~~
-`export const maria = {
+        export const maria = {
 
-    "name": "Mariluz",
-    "skills": "JavaScript",
-    "gif": "https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif"
-}
+            "name": "Mariluz",
+            "skills": "JavaScript",
+            "gif": "https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif"
+        }
 
-export default maria`
+        export default maria
 ~~~
 No olvides de incluirte en el index.js para poder exportar tus datos
 ~~~
-export * from './maria'
+        export * from './maria'
 
-export * from './paco'
+        export * from './paco'
 
-export * from './tunombre'
+        export * from './tunombre'
 ~~~
 Ya has terminado de modificar! ahora haz: 
 
