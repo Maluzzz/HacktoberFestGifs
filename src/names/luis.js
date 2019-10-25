@@ -3,5 +3,6 @@ export const tu nombre = {
             "skills": "VisualBasic", 
             "gif": "http://giphygifs.s3.amazonaws.com/media/FjeGBljESVAzu/giphy.gif"
 
+
         }
         export default Luis
