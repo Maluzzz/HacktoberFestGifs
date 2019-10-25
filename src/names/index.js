@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-export * from './maria'
-export * from './paco'
-export * from './pablo'
-export * from './alberto'
-=======
 export * from './maria'
 export * from './paco'
 export * from './pablo'
@@ -23,4 +17,3 @@ export * from './yago'
 export * from './rebekah'
 export * from './vergara'
 export * from './antonioj'
->>>>>>> master
