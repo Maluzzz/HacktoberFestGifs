@@ -4,4 +4,4 @@ export const alberto = {
   "gif": "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
 }
 
-export default alberto
+export default alberto;
