@@ -20,4 +20,6 @@ export * from './bekah'
 export * from './vergara'
 export * from './antonioj'
 export * from './DJ'
+export * from './whatTheHack'
 export * from './tobias'
+
