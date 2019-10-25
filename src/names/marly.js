@@ -4,4 +4,4 @@ export const marly = {
             "gif": "https://media.giphy.com/media/iDJQRjTCenF7A4BRyU/giphy.gif"
 
         }
-        export default *marly*
+        export default marly
