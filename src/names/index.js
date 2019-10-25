@@ -7,4 +7,5 @@ export * from './aledonoso'
 export * from './alberto'
 export * from './ismael'
 export * from './rebekah'
+export * from './bekah'
 
