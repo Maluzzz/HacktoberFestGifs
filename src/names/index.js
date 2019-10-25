@@ -14,4 +14,4 @@ export * from './angel'
 export * from './Miguel'
 export * from './yago'
 export * from './rebekah'
-
+export * from './tobias'
