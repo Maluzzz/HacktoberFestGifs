@@ -10,6 +10,9 @@ export * from './alberto'
 export * from './natalia'
 
 
+
+export * from './marly'
+
 export * from './andresDD'
 
 export * from './ismael'
