@@ -1,0 +1,7 @@
+ export const Natalia = {
+            "name": "Natalia",  
+            "skills": "java", 
+            "gif": "http://giphygifs.s3.amazonaws.com/media/5xtDarlzV5lwRLdGDao/giphy.gif"
+
+        }
+        export default natalia
