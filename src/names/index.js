@@ -5,4 +5,7 @@ export * from './luis'
 export * from './ismael'
 export * from './PabloGO'
 export * from './angel'
-
+export * from './maria'
+export * from './paco'
+export * from './pablo'
+export * from './Miguel'
