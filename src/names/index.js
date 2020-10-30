@@ -21,4 +21,5 @@ export * from './DJ'
 export * from './tobias'
 export * from './antonioj'
 export * from './whatTheHack'
+export * from './paquito'
 
