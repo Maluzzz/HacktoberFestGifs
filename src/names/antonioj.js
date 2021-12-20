@@ -1,7 +1,8 @@
 export const antonioj = {
-    "name": "Antonio Jaime",  
-    "skills": "C,Java,Python", 
-    "gif": "https://giphy.com/gifs/APEwkvfZ7ANnErByo5"
+            "name": "Antonio Jaime",  
+            "skills": "C,Java,Python", 
+            "gif": "https://media.giphy.com/media/jkZtSdwKOx05BOlapR/giphy.gif"
 
-}
+        }
+
 export default antonioj
